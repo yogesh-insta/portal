@@ -1,5 +1,10 @@
 # portal
 
+**Stack:** Java, JAX-RS, Apache CXF
+
+**Skills:** REST endpoints, server-side web UI
+
+
 Java web samples:
 
 - `FileUploadRestlet` is a JAX-RS file upload endpoint
